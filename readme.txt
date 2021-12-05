@@ -10,4 +10,9 @@ Expo Commands
         - npm install @react-navigation/bottom-tabs
         - npm i --save @react-navigation/stack
         - expo r -c
+    Styled-components
+        -npm install styled-components
+    Multilanguage
+        expo install expo-localization
+        npm install i18n-js
 - expo start -c -> c to clean cache
